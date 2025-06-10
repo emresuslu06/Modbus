@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/background.jpg</file>
+        <file>images/nuris-hakkimizda-img-1.jpg</file>
+        <file>images/logo2.jpg</file>
+        <file>images/yenilogo.jpg</file>
+        <file>images/enyeni.jpg</file>
+        <file>images/YEni.png</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
